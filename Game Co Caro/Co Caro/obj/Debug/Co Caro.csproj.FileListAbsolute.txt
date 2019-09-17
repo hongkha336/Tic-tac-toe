@@ -1,0 +1,24 @@
+C:\Users\Xiaok\Desktop\Co Caro\Co Caro\bin\Debug\Co Caro.exe.config
+C:\Users\Xiaok\Desktop\Co Caro\Co Caro\bin\Debug\Co Caro.exe
+C:\Users\Xiaok\Desktop\Co Caro\Co Caro\bin\Debug\Co Caro.pdb
+C:\Users\Xiaok\Desktop\Co Caro\Co Caro\obj\Debug\Co Caro.csprojResolveAssemblyReference.cache
+C:\Users\Xiaok\Desktop\Co Caro\Co Caro\obj\Debug\Co_Caro.Main.resources
+C:\Users\Xiaok\Desktop\Co Caro\Co Caro\obj\Debug\Co_Caro.Properties.Resources.resources
+C:\Users\Xiaok\Desktop\Co Caro\Co Caro\obj\Debug\Co Caro.csproj.GenerateResource.Cache
+C:\Users\Xiaok\Desktop\Co Caro\Co Caro\obj\Debug\Co Caro.exe
+C:\Users\Xiaok\Desktop\Co Caro\Co Caro\obj\Debug\Co Caro.pdb
+C:\Users\Xiaok\Desktop\Co Caro - Copy\Co Caro\bin\Debug\Co Caro.exe.config
+C:\Users\Xiaok\Desktop\Co Caro - Copy\Co Caro\obj\Debug\Co Caro.exe
+C:\Users\Xiaok\Desktop\Co Caro - Copy\Co Caro\obj\Debug\Co Caro.pdb
+C:\Users\Xiaok\Desktop\Co Caro - Copy\Co Caro\bin\Debug\Co Caro.exe
+C:\Users\Xiaok\Desktop\Co Caro - Copy\Co Caro\bin\Debug\Co Caro.pdb
+C:\Users\Xiaok\Desktop\Co Caro - Copy\Co Caro\obj\Debug\Co Caro.csprojResolveAssemblyReference.cache
+C:\Users\Xiaok\Desktop\Co Caro - Copy\Co Caro\obj\Debug\Co_Caro.Main.resources
+C:\Users\Xiaok\Desktop\Co Caro - Copy\Co Caro\obj\Debug\Co_Caro.Properties.Resources.resources
+C:\Users\Xiaok\Desktop\Co Caro - Copy\Co Caro\obj\Debug\Co Caro.csproj.GenerateResource.Cache
+D:\2018_HK2\2018_TU HOC WINFORM\Co Caro - Copy\Co Caro\bin\Debug\Co Caro.exe.config
+D:\2018_HK2\2018_TU HOC WINFORM\Co Caro - Copy\Co Caro\obj\Debug\Co Caro.exe
+D:\2018_HK2\2018_TU HOC WINFORM\Co Caro - Copy\Co Caro\obj\Debug\Co Caro.pdb
+D:\2018_HK2\2018_TU HOC WINFORM\Game Co Caro - Copy\Co Caro\bin\Debug\Co Caro.exe.config
+D:\2018_HK2\2018_TU HOC WINFORM\Game Co Caro - Copy\Co Caro\obj\Debug\Co Caro.exe
+D:\2018_HK2\2018_TU HOC WINFORM\Game Co Caro - Copy\Co Caro\obj\Debug\Co Caro.pdb
